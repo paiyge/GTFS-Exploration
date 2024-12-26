@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
+Greater Portland Metro Bus,http://www.gpmetro.org,en,20240923,20241109,S1000279

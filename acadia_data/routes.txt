@@ -1,0 +1,13 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+1,1,1,Congress Street,,3,,1f497d,ffffff
+2,1,2,Riverton,,3,,ffc000,000000
+3,1,3,Route 3,,3,,ffffff,000000
+4,1,4,Westbrook,,3,,92d050,000000
+5,1,5,Maine Mall,,3,,00b050,ffffff
+7,1,7,Falmouth,,3,,ff0000,ffffff
+8,1,8,Peninsula Loop,,3,,d99594,000000
+999,1,999,Test Route,,3,,ffffff,000000
+9A,1,9A,North Deering via Stevens Ave,,3,,e46c0a,ffffff
+9B,1,9B,North Deering via Washington Ave,,3,,17365d,ffffff
+BRZ,1,BRZ,METRO BREEZ,,3,,548ed5,000000
+HSK,1,HSK,Husky Line,,3,,376092,000000
